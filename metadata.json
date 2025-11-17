@@ -1,0 +1,5 @@
+{
+  "name": "PillPal: Medicine Tracker",
+  "description": "A modern, user-friendly application to help you track your medication intake, view your history, and get quick information about your prescriptions powered by the Gemini API.",
+  "requestFramePermissions": []
+}

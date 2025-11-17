@@ -1,0 +1,21 @@
+{
+  "short_name": "PillPal",
+  "name": "PillPal: Medicine Tracker",
+  "description": "A modern, user-friendly application to help you track your medication intake, view your history, and get quick information about your prescriptions powered by the Gemini API.",
+  "icons": [
+    {
+      "src": "assets/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f1f5f9"
+}
