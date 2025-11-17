@@ -1,6 +1,7 @@
 
 const CACHE_NAME = 'pillpal-cache-v1';
 const URLS_TO_CACHE = [
+  '.',
   'index.html',
   'index.tsx',
   'manifest.json',
@@ -70,5 +71,8 @@ self.addEventListener('activate', (event) => {
         })
       );
     })
+  );
+});
+
   );
 });
